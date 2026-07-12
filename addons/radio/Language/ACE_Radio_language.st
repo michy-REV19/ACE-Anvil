@@ -5,6 +5,7 @@ StringTable {
    Id "ACE_Radio-FailReason_NotLoaded"
    Target_en_us "Not loaded"
    Target_de_de "Nicht geladen"
+   Target_ja_jp ""
    Target_ko_kr "로드되지 않음"
    Target_zh_cn "未載入"
    Modified 1769404446
@@ -15,6 +16,7 @@ StringTable {
    Id "ACE_Radio-Item_KYK13_Description"
    Target_en_us "A module used for transferring cryptographic keys to radios."
    Target_de_de "Ein Modul zum Übetragen von kryptographischen Schlüsseln auf Funkgeräte."
+   Target_ja_jp ""
    Target_ko_kr "암호화 키를 무전기로 전송하는 데 사용되는 모듈입니다."
    Target_zh_cn "用於將加密金鑰傳輸至無線電的模組"
    Modified 1769404151
@@ -24,6 +26,7 @@ StringTable {
   CustomStringTableItem "{66657BEC7B8734FC}" {
    Id "ACE_Radio-Item_KYK13_Name"
    Target_en_us "KYK-13 Fill Device"
+   Target_ja_jp ""
    Target_ko_kr "KYK-13 키 로더"
    Target_zh_cn "KYK-13 金鑰傳輸器"
    Modified 1769404130
@@ -37,6 +40,7 @@ StringTable {
    Target_it_it "Radio"
    Target_es_es "Radio"
    Target_pl_pl "Radio"
+   Target_ja_jp ""
    Target_ko_kr "무전기"
    Target_pt_br "Rádio"
    Target_zh_cn "無線電"
@@ -51,6 +55,7 @@ StringTable {
    Target_it_it "Segnale di trasmissione Canale 1"
    Target_es_es "Pitido de transmisión del canal 1"
    Target_pl_pl "Pisk transmisji kanału 1"
+   Target_ja_jp ""
    Target_ko_kr "1 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 1"
    Target_zh_cn "Ch.1 傳輸蜂鳴聲"
@@ -65,6 +70,7 @@ StringTable {
    Target_it_it "Segnale di trasmissione Canale 2"
    Target_es_es "Pitido de transmisión Ch.2"
    Target_pl_pl "Pisk transmisji kanału 2"
+   Target_ja_jp ""
    Target_ko_kr "2 채널 송신음"
    Target_pt_br "Sinal sonoro de transmissão do canal 2"
    Target_zh_cn "Ch.2 傳輸蜂鳴聲"
@@ -79,6 +85,7 @@ StringTable {
    Target_it_it "Alta"
    Target_es_es "Alto"
    Target_pl_pl "Wysoki"
+   Target_ja_jp ""
    Target_ko_kr "높음"
    Target_pt_br "Alto"
    Target_zh_cn "高音"
@@ -93,6 +100,7 @@ StringTable {
    Target_it_it "bassa"
    Target_es_es "Bajo"
    Target_pl_pl "Niski"
+   Target_ja_jp ""
    Target_ko_kr "낮음"
    Target_pt_br "Baixo"
    Target_zh_cn "低音"
@@ -107,6 +115,7 @@ StringTable {
    Target_it_it "Spenta"
    Target_es_es "Apagado"
    Target_pl_pl "Wyłączony"
+   Target_ja_jp ""
    Target_ko_kr "없음"
    Target_pt_br "Desligado"
    Target_zh_cn "關閉"
@@ -121,6 +130,7 @@ StringTable {
    Target_it_it "Segnale di ciclo del ricetrasmettitore"
    Target_es_es "Pitido de ciclo del transceptor"
    Target_pl_pl "Pisk przy zmianie nadajnika"
+   Target_ja_jp ""
    Target_ko_kr "무전기 순환음"
    Target_pt_br "Sinal sonoro do ciclo do transceptor"
    Target_zh_cn "頻道切換蜂鳴聲"
@@ -132,6 +142,7 @@ StringTable {
    Id "ACE_Radio-Settings_Click_Off"
    Target_en_us "Click-off sound when transmission ends"
    Target_pl_pl "Dźwięk odłączenia przy zakończeniu transmisji"
+   Target_ja_jp ""
    Modified 1716434296
    Author "darkshifty"
    LastChanged "darkshifty"
@@ -140,6 +151,7 @@ StringTable {
    Id "ACE_Radio-UserAction_Address"
    Target_en_us "Address: %1"
    Target_de_de "Adresse: %1"
+   Target_ja_jp ""
    Target_ko_kr "주소: %1"
    Target_zh_cn "儲位: %1"
    Modified 1769404245
@@ -150,6 +162,7 @@ StringTable {
    Id "ACE_Radio-UserAction_ClearAll"
    Target_en_us "Clear all"
    Target_de_de "Alle löschen"
+   Target_ja_jp ""
    Target_ko_kr "모두 지우기"
    Target_zh_cn "全數清除"
    Modified 1769404209
@@ -160,6 +173,7 @@ StringTable {
    Id "ACE_Radio-UserAction_CopyKey"
    Target_en_us "Copy %1 to %2"
    Target_de_de "Kopiere %1 nach %2"
+   Target_ja_jp ""
    Target_ko_kr "%1 키를 %2(으)로 복사하기"
    Target_zh_cn "複製 %1 至 %2"
    Modified 1769404258
@@ -170,6 +184,7 @@ StringTable {
    Id "ACE_Radio-UserAction_LoadKey"
    Target_en_us "Load %1"
    Target_de_de "Lade %1"
+   Target_ja_jp ""
    Target_ko_kr "%1 키 로드하기"
    Target_zh_cn "載入 %1"
    Modified 1769404262

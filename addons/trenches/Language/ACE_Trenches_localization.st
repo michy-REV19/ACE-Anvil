@@ -5,6 +5,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_big_Name"
    Target_en_us "Personal Trench (Big)"
    Target_de_de "Schützengraben (Groß)"
+   Target_ja_jp ""
    Modified 1728932352
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -13,6 +14,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_giant_Name"
    Target_en_us "Personal Trench (Giant)"
    Target_de_de "Schützengraben (Sehr Groß)"
+   Target_ja_jp ""
    Modified 1728932416
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -21,6 +23,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_small_Name"
    Target_en_us "Personal Trench (Small)"
    Target_de_de "Schützengraben (Klein)"
+   Target_ja_jp ""
    Modified 1728932294
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -29,6 +32,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_TrenchSegment_01_short_Name"
    Target_en_us "Trench Segment (Short)"
    Target_de_de "Grabensegment (Kurz)"
+   Target_ja_jp ""
    Modified 1728932475
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -37,6 +41,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_VehicleTrench_01_Name"
    Target_en_us "Vehicle Trench"
    Target_de_de "Fahrzeug Schützengraben"
+   Target_ja_jp ""
    Modified 1728935966
    Author "Kexanone"
    LastChanged "Kexanone"

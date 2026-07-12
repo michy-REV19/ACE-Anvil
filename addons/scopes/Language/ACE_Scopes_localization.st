@@ -5,6 +5,7 @@ StringTable {
    Id "ACE_Scopes-AddonName"
    Target_en_us "Scopes"
    Target_de_de "Zielfernrohre"
+   Target_ja_jp ""
    Target_ko_kr "조준경"
    Modified 1761348539
    Author "Kexanone"
@@ -14,6 +15,7 @@ StringTable {
    Id "ACE_Scopes-KeyBind_ACE_HorizontalZeroingLeft_Name"
    Target_en_us "Adjust windage left"
    Target_de_de "Seite nach links korrigieren"
+   Target_ja_jp ""
    Target_ko_kr "왼쪽으로 영점 조정"
    Target_zh_cn "風偏向左修正"
    Modified 1769405228
@@ -24,6 +26,7 @@ StringTable {
    Id "ACE_Scopes-KeyBind_ACE_HorizontalZeroingRight_Name"
    Target_en_us "Adjust windage right"
    Target_de_de "Seite nach rechts korrigieren"
+   Target_ja_jp ""
    Target_ko_kr "오른쪽으로 영점 조정"
    Target_zh_cn "風偏向右修正"
    Modified 1769405233
@@ -34,6 +37,7 @@ StringTable {
    Id "ACE_Scopes-KeyBind_VerticalZeroingDown_Name"
    Target_en_us "Adjust elevation down"
    Target_de_de "Höhe nach unten korrigieren"
+   Target_ja_jp ""
    Target_ko_kr "아래로 영점 조정"
    Target_zh_cn "高低向下修正"
    Modified 1769405240
@@ -42,8 +46,9 @@ StringTable {
   }
   CustomStringTableItem "{68FC0667D7F52473}" {
    Id "ACE_Scopes-KeyBind_VerticalZeroingUp_Name"
-   Target_en_us "Adjust elevation up "
+   Target_en_us "Adjust elevation up"
    Target_de_de "Höhe nach oben korrigieren"
+   Target_ja_jp ""
    Target_ko_kr "위로 영점 조정"
    Target_zh_cn "高低向上修正"
    Modified 1769405250
