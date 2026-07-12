@@ -33,6 +33,7 @@ StringTable {
    Id "ACE-Emotes_Emote_MetalClanging_Name"
    Target_en_us "Metal clanging"
    Target_de_de "Metallklirren"
+   Target_ja_jp ""
    Modified 1775596321
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -86,6 +87,7 @@ StringTable {
    Id "ACE-Item_AnvilPatch_Name"
    Target_en_us "ACE Anvil Patch"
    Target_de_de "ACE Anvil Abzeichen"
+   Target_ja_jp ""
    Modified 1775505875
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -130,7 +132,7 @@ StringTable {
    Id "ACE-RadialMenu_ChangeMagazine"
    Target_en_us "Change magazine"
    Target_de_de "Magazin wechseln"
-   Target_ja_jp "ACE"
+   Target_ja_jp ""
    Modified 1752960450
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -139,6 +141,7 @@ StringTable {
    Id "ACE-Item_CbrnPatch_Name"
    Target_en_us "ACE CBRN Patch"
    Target_de_de "ACE CBRN Abzeichen"
+   Target_ja_jp ""
    Modified 1775512912
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -147,6 +150,7 @@ StringTable {
    Id "ACE-Item_EngineerPatch_Name"
    Target_en_us "ACE Engineer Patch"
    Target_de_de "ACE Pionier Abzeichen"
+   Target_ja_jp ""
    Modified 1775505883
    Author "Kexanone"
    LastChanged "Kexanone"
@@ -155,6 +159,7 @@ StringTable {
    Id "ACE-Item_MedicPatch_Name"
    Target_en_us "ACE Medic Patch"
    Target_de_de "ACE Sanitäter Abzeichen"
+   Target_ja_jp ""
    Modified 1775505860
    Author "Kexanone"
    LastChanged "Kexanone"
