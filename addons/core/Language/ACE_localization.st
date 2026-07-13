@@ -24,19 +24,19 @@ StringTable {
    Id "ACE-ControlsHint_InspectTurret"
    Target_en_us "Inspect Turret"
    Target_de_de "Geschütz untersuchen"
-   Target_ja_jp ""
+   Target_ja_jp "砲塔を調べる"
    Modified 1715082397
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{69D5511B8FD9D6BD}" {
    Id "ACE-Emotes_Emote_MetalClanging_Name"
    Target_en_us "Metal clanging"
    Target_de_de "Metallklirren"
-   Target_ja_jp ""
+   Target_ja_jp "金属を叩く"
    Modified 1775596321
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{64771570B1AFAB10}" {
    Id "ACE-Emotes_Emote_Pushups_Name"
@@ -45,13 +45,13 @@ StringTable {
    Target_it_it "Flessioni"
    Target_de_de "Liegestützen"
    Target_es_es "Lagartijas"
-   Target_ja_jp ""
+   Target_ja_jp "腕立て伏せ"
    Target_ko_kr "팔굽혀펴기"
    Target_pt_br "Flexões"
    Target_zh_cn "伏地挺身"
    Modified 1750690968
    Author "Kex"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{64771570304E885F}" {
    Id "ACE-Emotes_Emote_Salute_Name"
@@ -60,13 +60,13 @@ StringTable {
    Target_it_it "Saluto militare"
    Target_de_de "Salutieren"
    Target_es_es "Saludo militar"
-   Target_ja_jp ""
+   Target_ja_jp "敬礼"
    Target_ko_kr "경례"
    Target_pt_br "Comprimeto militar"
    Target_zh_cn "敬禮"
    Modified 1750691025
    Author "Kex"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{64771570B4AF7606}" {
    Id "ACE-Emotes_Emote_SitOnFloor_Name"
@@ -75,22 +75,22 @@ StringTable {
    Target_it_it "Sedersi per terra"
    Target_de_de "Auf den Boden sitzen"
    Target_es_es "Sentarse en el suelo"
-   Target_ja_jp ""
+   Target_ja_jp "地面に座る"
    Target_ko_kr "바닥에 앉기"
    Target_pt_br "Sentar no chão"
    Target_zh_cn "席地而坐"
    Modified 1750691043
    Author "Kex"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{69D0F455AABC16B0}" {
    Id "ACE-Item_AnvilPatch_Name"
    Target_en_us "ACE Anvil Patch"
    Target_de_de "ACE Anvil Abzeichen"
-   Target_ja_jp ""
+   Target_ja_jp "ACE Anvilワッペン"
    Modified 1775505875
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{60FD565E5C4D775C}" {
    Id "ACE-Item_Banana_Description"
@@ -101,14 +101,14 @@ StringTable {
    Target_es_es "¡Potasio saludable!"
    Target_cs_cz "Zdravá dávka draslíku!"
    Target_ru_ru "Здоровый калий!"
-   Target_ja_jp ""
+   Target_ja_jp "健康に良いカリウム！"
    Target_ko_kr "건강한 칼륨덩어리입니다!"
    Target_pt_br "Potássio saudável!"
    Target_zh_cn "香蕉含鉀量高，腎功能不良者應諮詢醫生後食用"
    Target_uk_ua "Здоровий калій!"
    Modified 1750691061
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{60FD565E59AC0571}" {
    Id "ACE-Item_Banana_Name"
@@ -119,50 +119,50 @@ StringTable {
    Target_es_es "Plátano"
    Target_cs_cz "Banán"
    Target_ru_ru "Банан"
-   Target_ja_jp ""
+   Target_ja_jp "バナナ"
    Target_ko_kr "바나나"
    Target_pt_br "Banana"
    Target_zh_cn "香蕉"
    Target_uk_ua "Банан"
    Modified 1750691073
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{663A2182DD1E0961}" {
    Id "ACE-RadialMenu_ChangeMagazine"
    Target_en_us "Change magazine"
    Target_de_de "Magazin wechseln"
-   Target_ja_jp ""
+   Target_ja_jp "弾倉を交換"
    Modified 1752960450
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{69D425A0AB2A4037}" {
    Id "ACE-Item_CbrnPatch_Name"
    Target_en_us "ACE CBRN Patch"
    Target_de_de "ACE CBRN Abzeichen"
-   Target_ja_jp ""
+   Target_ja_jp "ACE CBRNワッペン"
    Modified 1775512912
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{69D40E74015C3532}" {
    Id "ACE-Item_EngineerPatch_Name"
    Target_en_us "ACE Engineer Patch"
    Target_de_de "ACE Pionier Abzeichen"
-   Target_ja_jp ""
+   Target_ja_jp "ACE 工兵ワッペン"
    Modified 1775505883
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{69D0F455ACDDFC84}" {
    Id "ACE-Item_MedicPatch_Name"
    Target_en_us "ACE Medic Patch"
    Target_de_de "ACE Sanitäter Abzeichen"
-   Target_ja_jp ""
+   Target_ja_jp "ACE 衛生兵ワッペン"
    Modified 1775505860
    Author "Kexanone"
-   LastChanged "Kexanone"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{5DDEFB51C773DDD9}" {
    Id "ACE-UserAction_Carry"
@@ -174,14 +174,14 @@ StringTable {
    Target_cs_cz "Nést"
    Target_pl_pl "Nieś"
    Target_ru_ru "Перенести"
-   Target_ja_jp "運ぶ"
+   Target_ja_jp "持って運ぶ"
    Target_ko_kr "업기"
    Target_pt_br "Carregar"
    Target_zh_cn "背負"
    Target_uk_ua "Перенести"
    Modified 1750691164
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{5E0C2A71118B03B7}" {
    Id "ACE-UserAction_Carrying"
@@ -192,14 +192,14 @@ StringTable {
    Target_es_es "Arrastrar"
    Target_cs_cz "Nošení"
    Target_ru_ru "Перенос"
-   Target_ja_jp ""
+   Target_ja_jp "運搬中"
    Target_ko_kr "업는 중"
    Target_pt_br "Levar"
    Target_zh_cn "背負中"
    Target_uk_ua "Перенесення"
    Modified 1750691202
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{64AD6AAED7334824}" {
    Id "ACE-UserAction_LoadCarried"
@@ -208,13 +208,13 @@ StringTable {
    Target_it_it "Carica trasportato:"
    Target_de_de "Getragener laden:"
    Target_es_es "Cargar paciente:"
-   Target_ja_jp ""
+   Target_ja_jp "載せる"
    Target_ko_kr "업힌 사람 싣기:"
    Target_pt_br "Carregar paciente:"
    Target_zh_cn "將隨行單位移進載具"
    Modified 1750691215
    Author "Kex"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{649D4AEF943234F2}" {
    Id "ACE-UserAction_Release"
@@ -244,14 +244,14 @@ StringTable {
    Target_es_es "¡Potasio explosivo!"
    Target_cs_cz "Výbušná dávka draslíku!"
    Target_ru_ru "Взрывной калий!"
-   Target_ja_jp ""
+   Target_ja_jp "爆発性カリウム！"
    Target_ko_kr "폭발하는 칼륨덩어리입니다!"
    Target_pt_br "Potássio explosivo!"
    Target_zh_cn "注意高爆破片"
    Target_uk_ua "Вибуховий калій!"
    Modified 1750691236
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{60FD565E48F06F03}" {
    Id "ACE-Weapon_FragBanana_Name"
@@ -262,14 +262,14 @@ StringTable {
    Target_es_es "Plátano frag."
    Target_cs_cz "Výbušný banán"
    Target_ru_ru "Осколочный банан"
-   Target_ja_jp ""
+   Target_ja_jp "バナナ手榴弾"
    Target_ko_kr "세열바나나"
    Target_pt_br "Frag Banana"
    Target_zh_cn "香蕉手榴彈"
    Target_uk_ua "Осколковий банан"
    Modified 1750692631
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{649D4AEE400FD73C}" {
    Id "ACE_Core-AddonName"
@@ -277,12 +277,12 @@ StringTable {
    Target_fr_fr "Core"
    Target_it_it "Core"
    Target_es_es "Core"
-   Target_ja_jp ""
+   Target_ja_jp "コア"
    Target_ko_kr "코어"
    Target_pt_br "Core"
    Modified 1750768621
    Author "Kex"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
  }
 }
