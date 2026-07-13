@@ -54,7 +54,7 @@ StringTable {
    Id "ACE-Explosives_Item_VMM3_Description"
    Target_en_us "Metal and mine detector used for clearing landmines and UXO."
    Target_de_de "Metall- und Minensuchgerät zur Räumung von Landminen und Blindgängern."
-   Target_ja_jp "地雷や不発弾の除去に使う金属・地雷探知機"
+   Target_ja_jp "地雷や不発弾の除去に使う金属・地雷探知機。"
    Target_ko_kr "지뢰나 불발탄 제거에 사용되는 금속 및 지뢰탐지기입니다."
    Modified 1773537009
    Author "Kexanone"

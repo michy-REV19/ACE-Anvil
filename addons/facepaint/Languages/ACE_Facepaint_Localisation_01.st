@@ -16,7 +16,7 @@ StringTable {
    Id "ace-item-facepaint-uk-name"
    Target_en_us "Camouflage Face Cream"
    Target_fr_fr "Crème de Camouflage"
-   Target_ja_jp "迷彩フェイスペイント (イギリス)"
+   Target_ja_jp "迷彩フェイスペイント（英国）"
    Target_ko_kr "위장 크림 (영국)"
    Target_zh_cn "面部偽裝膏"
    Modified 1769405922
@@ -38,7 +38,7 @@ StringTable {
    Id "ace-item-facepaint-us-name"
    Target_en_us "Camouflage Face Cream"
    Target_fr_fr "Crème de Camouflage"
-   Target_ja_jp "迷彩フェイスペイント (アメリカ)"
+   Target_ja_jp "迷彩フェイスペイント（米国）"
    Target_ko_kr "위장 크림 (미국)"
    Target_zh_cn "面部偽裝膏"
    Modified 1769405733
@@ -60,7 +60,7 @@ StringTable {
    Id "ace-item-facepaint-ussr-name"
    Target_en_us "Camouflage Face Cream"
    Target_fr_fr "Crème de Camouflage"
-   Target_ja_jp "迷彩フェイスペイント (ソビエト)"
+   Target_ja_jp "迷彩フェイスペイント（ソ連）"
    Target_ko_kr "위장 크림 (소련)"
    Target_zh_cn "面部偽裝膏"
    Modified 1769405857

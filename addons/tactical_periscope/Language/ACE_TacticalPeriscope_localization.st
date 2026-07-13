@@ -8,7 +8,7 @@ StringTable {
    Target_it_it "Periscopio portatile per osservazione da dietro copertura."
    Target_de_de "Handgetragenes Periskop um über Hindernisse zu schauen."
    Target_es_es "Periscopio de mano para observar desde detrás de la cubierta."
-   Target_ja_jp "遮蔽物の陰から覗くための携帯用潜望鏡"
+   Target_ja_jp "遮蔽物の陰から覗くための携帯用潜望鏡。"
    Target_ko_kr "엄폐물 뒤에서 엿볼 수 있는 휴대용 잠망경입니다."
    Target_pt_br "Periscópio portátil para observar por trás da cobertura."
    Target_zh_cn "可在掩體後方觀察用的手持式潛望鏡"

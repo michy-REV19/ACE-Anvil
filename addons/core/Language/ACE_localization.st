@@ -233,7 +233,7 @@ StringTable {
    Target_uk_ua "Відпустити"
    Modified 1750691228
    Author "kexanone"
-   LastChanged "Martian"
+   LastChanged "michy_REV19"
   }
   CustomStringTableItem "{60FD565E50C080B7}" {
    Id "ACE-Weapon_FragBanana_Description"

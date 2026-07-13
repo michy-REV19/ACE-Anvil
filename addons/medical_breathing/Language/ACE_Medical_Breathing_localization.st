@@ -49,7 +49,7 @@ StringTable {
    Id "ACE_Medical-Item_ChestSeal_Description"
    Target_en_us "Special dressing for open chest wounds"
    Target_de_de "Spezialverband für offenen Brustkorbverletzungen"
-   Target_ja_jp "開放性胸部創用の特殊な包帯"
+   Target_ja_jp "開放性胸部創用の特殊な包帯。"
    Target_ko_kr "가슴 부위의 상처를 개방하는 특수한 붕대입니다"
    Target_zh_cn "用於開放性胸部傷口的專用敷料"
    Modified 1769401692
@@ -71,7 +71,7 @@ StringTable {
    Id "ACE_Medical-Item_KingLT_Description"
    Target_en_us "Airway management device inserted into throat"
    Target_de_de "Hilfsmittel zur Atemwegssicherung"
-   Target_ja_jp "咽頭に挿入する気道確保器具"
+   Target_ja_jp "咽頭に挿入する気道確保器具。"
    Target_ko_kr "기도에 넣어 호흡을 관리하는 장비입니다"
    Target_zh_cn "置入咽喉的氣道處置器材"
    Modified 1769400978
@@ -93,7 +93,7 @@ StringTable {
    Id "ACE_Medical-Item_NCDKit_Description"
    Target_en_us "Kit for performing needle decompression"
    Target_de_de "Set zur Durchführung von Nadeldekompression"
-   Target_ja_jp "胸腔減圧を行うためのキット"
+   Target_ja_jp "針胸腔減圧を行うためのキット。"
    Target_ko_kr "감압용 바늘로 사용하는 의료 키트입니다"
    Target_zh_cn "用於執行針刺減壓的工具"
    Modified 1694634678
@@ -115,7 +115,7 @@ StringTable {
    Id "ACE_Medical-Item_OxygenMask_Description"
    Target_en_us "Mask for oxygen therapy"
    Target_de_de "Maske für Sauerstofftherapie"
-   Target_ja_jp "酸素療法用のマスク"
+   Target_ja_jp "酸素療法用のマスク。"
    Target_ko_kr "산소 치료를 위한 마스크입니다"
    Target_zh_cn "用於氧氣治療的面罩"
    Modified 1769401465
@@ -137,7 +137,7 @@ StringTable {
    Id "ACE_Medical-Notification_BREATHING_RESULT"
    Target_en_us "You find a respiratory rate of %1 breaths per minute"
    Target_de_de "Die Atemfrequenz ist %1 AZ/min"
-   Target_ja_jp "呼吸数は毎分%1回だ"
+   Target_ja_jp "呼吸数: 毎分%1回"
    Target_ko_kr "호흡 횟수가 분당 %1회임을 알아냈습니다"
    Target_zh_cn "您測得的呼吸速率是每分鐘 %1 次"
    Modified 1729515075
@@ -148,7 +148,7 @@ StringTable {
    Id "ACE_Medical-Notification_SPO2_RESULT"
    Target_en_us "You find a SpO2 of %1%"
    Target_de_de "SpO2 ist %1%"
-   Target_ja_jp "SpO2は%1%だ"
+   Target_ja_jp "SpO2: %1%"
    Target_ko_kr "산소포화도가 %1%임을 알아냈습니다"
    Target_zh_cn "您測得的血氧飽和度 (SpSpO2) 是 %1%"
    Modified 1658284253
@@ -170,7 +170,7 @@ StringTable {
    Id "ACE_Medical-RadialMenu_AirwayThoraxManagement"
    Target_en_us "Airway/Thorax management"
    Target_de_de "Atemweg/Brustkorb Versorgung"
-   Target_ja_jp "気道・胸郭確保"
+   Target_ja_jp "気道・胸部処置"
    Target_ko_kr "기도/흉부 관리"
    Target_zh_cn "氣道與胸腔處置"
    Modified 1769400600

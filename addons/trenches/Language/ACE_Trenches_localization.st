@@ -5,7 +5,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_big_Name"
    Target_en_us "Personal Trench (Big)"
    Target_de_de "Schützengraben (Groß)"
-   Target_ja_jp "個人用塹壕 (大)"
+   Target_ja_jp "個人用塹壕（大）"
    Modified 1728932352
    Author "Kexanone"
    LastChanged "michy_REV19"
@@ -14,7 +14,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_giant_Name"
    Target_en_us "Personal Trench (Giant)"
    Target_de_de "Schützengraben (Sehr Groß)"
-   Target_ja_jp "個人用塹壕 (特大)"
+   Target_ja_jp "個人用塹壕（特大）"
    Modified 1728932416
    Author "Kexanone"
    LastChanged "michy_REV19"
@@ -23,7 +23,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_PersonalTrench_01_small_Name"
    Target_en_us "Personal Trench (Small)"
    Target_de_de "Schützengraben (Klein)"
-   Target_ja_jp "個人用塹壕 (小)"
+   Target_ja_jp "個人用塹壕（小）"
    Modified 1728932294
    Author "Kexanone"
    LastChanged "michy_REV19"
@@ -32,7 +32,7 @@ StringTable {
    Id "ACE_Trenches-EditableEntity_TrenchSegment_01_short_Name"
    Target_en_us "Trench Segment (Short)"
    Target_de_de "Grabensegment (Kurz)"
-   Target_ja_jp "塹壕区画 (短)"
+   Target_ja_jp "塹壕区画（短）"
    Modified 1728932475
    Author "Kexanone"
    LastChanged "michy_REV19"

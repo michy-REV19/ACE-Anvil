@@ -36,7 +36,7 @@ StringTable {
    Id "ACE_Overheating-Notification_BARREL_TEMPERATURE_RESULT"
    Target_en_us "You find a barrel temperature of %1 °C"
    Target_de_de "Die Lauftemperatur liegt bei %1 °C"
-   Target_ja_jp "銃身温度は%1°Cだ"
+   Target_ja_jp "銃身温度: %1 °C"
    Target_ko_kr "총열의 온도가 %1°C임을 알아냈습니다."
    Target_zh_cn "你測得槍管溫度為 %1 °C"
    Modified 1711152715
